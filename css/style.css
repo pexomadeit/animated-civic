@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+#builder {
+  position: relative;
+  width: 600px;
+  margin: auto;
+}
+
+.car {
+  width: 100%;
+}
+
+.wheel {
+  position: absolute;
+  width: 90px;
+}
+
+.front {
+  left: 210px;
+  top: 290px;
+}
+
+.rear {
+  left: 380px;
+  top: 290px;
+}
